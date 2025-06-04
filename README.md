@@ -161,3 +161,19 @@ https://anatoly-karpovich.github.io/demo-shopping-cart/
 - `src/data/demo-shopping-card/promocodes.ts` — contains list of all promo codes
 - `src/types/demo-shopping-card/product-types.ts` — defines Product type with name and price
 - `src/ui/tests/demo-shopping-card/checkout.spec.ts` — full E2E test
+
+## ✅ HW-21. Task 1: Page Object class for Sign In page
+
+### 📄 Description
+
+Написать Page Object класс для страницы Sign In:
+
+- email input
+- password input
+- login button
+- fillCredentials method
+- click on login button method
+
+### 📁 File structure
+
+- `src/ui/pages/sign-in.page.ts` — contains Page Object for Sign In page
